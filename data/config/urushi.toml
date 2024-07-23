@@ -1,0 +1,33 @@
+
+["block settings"]
+	#max height of Japanese Timber Bamboo
+	"max height(1～2147483647)" = 10
+	#Shoji Pane and Shoji are translucent
+	"translucent(true/false)" = false
+	#open and close Shojis, Fusumas, and Glass Sliding Door instantly
+	"instantry open and close sliding doors(true/false)" = false
+	#Play the sound of Wind Bell
+	"play wind bell sound(true/false)" = true
+
+["item settings"]
+	#max Reiryoku amount of Magatama
+	"magatama(1～2147483647)" = 5600
+	#disable displaying block element on item toolchip
+	"disable displaying block element(true/false)" = false
+
+["blockentity settings"]
+	#half number of square icons of Shichirin
+	"Shichirin icon(1～2147483647)" = 6
+	#cooking difficulty by using Shichirin (small number : severe)
+	"Shichirin cooking difficulty(1～2147483647)" = 2000
+
+["entity settings"]
+	#increase the player walking spped by 16% so that you can place blocks comfortably
+	"walking speed(true/false)" = true
+
+["particle settings"]
+	#amount of falling leaf particles
+	"falling leaf(1～100)" = 50
+	#amount of falling sakura particles
+	"falling sakura(1～100)" = 60
+
