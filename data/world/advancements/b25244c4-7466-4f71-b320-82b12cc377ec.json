@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "create:diving_suit": {
+    "criteria": {
+      "0": "2024-07-24 02:19:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-07-06 02:40:26 +0900"
@@ -1639,6 +1645,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-07-24 02:19:15 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_shingle_stairs_from_copper_shingles_stonecutting": {
     "criteria": {
       "has_copper_shingles": "2024-07-12 03:33:02 +0900"
@@ -1896,7 +1908,9 @@
       "nugget": "2024-07-12 03:25:21 +0900",
       "large_plate": "2024-07-12 02:28:14 +0900",
       "tough_handle": "2024-07-12 02:59:25 +0900",
+      "tool_binding": "2024-07-25 00:31:33 +0900",
       "pick_head": "2024-07-15 00:23:53 +0900",
+      "broad_axe_head": "2024-07-25 00:29:59 +0900",
       "hammer_head": "2024-07-12 02:58:39 +0900",
       "ingot": "2024-07-10 00:39:03 +0900"
     },
@@ -1929,6 +1943,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-07-21 00:51:55 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-07-25 03:30:09 +0900"
     },
     "done": true
   },
@@ -2484,6 +2504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2024-07-25 03:30:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2024-07-06 03:09:16 +0900"
@@ -2583,6 +2609,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-07-21 00:44:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-07-25 01:14:24 +0900"
     },
     "done": true
   },
@@ -3102,6 +3134,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-07-25 03:30:09 +0900"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-07-26 03:37:01 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-07-06 02:26:24 +0900"
@@ -3297,6 +3341,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_gray_dye": "2024-07-06 03:11:11 +0900"
+    },
+    "done": true
+  },
+  "urushi:obtain_lacquer_sapling": {
+    "criteria": {
+      "lacquer_sapling": "2024-07-27 02:34:24 +0900"
     },
     "done": true
   },
@@ -4175,10 +4225,12 @@
       "minecraft:spider": "2024-07-06 02:06:03 +0900",
       "minecraft:creeper": "2024-07-06 02:06:26 +0900",
       "minecraft:phantom": "2024-07-12 00:33:34 +0900",
+      "minecraft:witch": "2024-07-27 01:12:41 +0900",
       "minecraft:wither_skeleton": "2024-07-22 02:33:03 +0900",
       "minecraft:piglin": "2024-07-14 02:51:25 +0900",
       "minecraft:enderman": "2024-07-06 03:49:20 +0900",
       "minecraft:zombie": "2024-07-06 02:06:10 +0900",
+      "minecraft:drowned": "2024-07-25 03:21:26 +0900",
       "minecraft:zombie_villager": "2024-07-06 03:45:15 +0900"
     },
     "done": false
@@ -4441,6 +4493,12 @@
     },
     "done": true
   },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2024-07-26 03:10:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-07-20 04:58:56 +0900"
@@ -4522,6 +4580,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-07-20 05:03:20 +0900"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-07-26 03:06:14 +0900"
     },
     "done": true
   },
@@ -5063,6 +5127,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-07-12 01:09:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-07-27 02:52:32 +0900"
     },
     "done": true
   },
@@ -5789,6 +5859,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-07-26 03:37:00 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2024-07-06 01:50:11 +0900"
@@ -6152,6 +6228,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-07-27 02:52:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-07-26 02:51:20 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-07-06 03:19:17 +0900"
@@ -6197,6 +6285,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-07-12 01:26:49 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/punji": {
+    "criteria": {
+      "has_item": "2024-07-27 02:52:32 +0900"
     },
     "done": true
   },
@@ -6530,6 +6624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-07-25 01:14:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-07-15 00:37:06 +0900"
@@ -6562,6 +6662,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "broad_axe": "2024-07-25 00:33:10 +0900",
       "excavator": "2024-07-19 00:39:29 +0900",
       "sledge_hammer": "2024-07-12 02:29:57 +0900",
       "vein_hammer": "2024-07-12 03:04:27 +0900",
