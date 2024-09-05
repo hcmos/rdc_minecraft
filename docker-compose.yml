@@ -17,8 +17,8 @@ services:
 
       VERSION: 1.18.2
       FORGE_VERSION: 40.2.17
-      MEMORY: 16G
-      MAX_MEMORY: 24G
+      MEMORY: 8G
+      MAX_MEMORY: 12G
 
       TZ: Asia/Tokyo
 

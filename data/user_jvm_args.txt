@@ -1,1 +1,1 @@
--Xmx24G -Xms16G
+-Xmx12G -Xms8G
