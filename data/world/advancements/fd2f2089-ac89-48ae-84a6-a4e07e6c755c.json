@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-08 23:59:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2024-07-28 06:30:18 +0900"
@@ -278,6 +284,12 @@
   "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2024-07-22 01:26:02 +0900"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_slab": {
+    "criteria": {
+      "has_cracked_red_bricks": "2024-09-13 01:55:23 +0900"
     },
     "done": true
   },
@@ -566,6 +578,12 @@
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2024-07-13 01:01:23 +0900"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-10-08 23:59:50 +0900"
     },
     "done": true
   },
@@ -1635,6 +1653,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_stairs": {
+    "criteria": {
+      "has_mossy_red_bricks": "2024-09-13 01:53:04 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/netherite_diving_helmet": {
     "criteria": {
       "has_item": "2024-07-19 05:24:24 +0900"
@@ -1855,6 +1879,12 @@
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2024-07-28 06:30:12 +0900"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/jungle": {
+    "criteria": {
+      "has_plank": "2024-10-08 23:59:50 +0900"
     },
     "done": true
   },
@@ -2462,6 +2492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-10-09 23:15:56 +0900"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/oak": {
     "criteria": {
       "has_plank": "2024-07-28 03:28:41 +0900"
@@ -2513,6 +2549,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-07-07 12:12:38 +0900"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_slab_from_cracked_red_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_red_bricks": "2024-09-13 01:55:23 +0900"
     },
     "done": true
   },
@@ -2756,6 +2798,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_minecraft/jungle": {
+    "criteria": {
+      "has_plank": "2024-10-08 23:59:50 +0900"
+    },
+    "done": true
+  },
   "create:chute": {
     "criteria": {
       "0": "2024-07-09 20:47:42 +0900"
@@ -2834,6 +2882,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_stairs": {
+    "criteria": {
+      "has_cracked_red_bricks": "2024-09-13 01:55:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-07-14 02:19:28 +0900"
@@ -2879,6 +2933,18 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-07-29 00:13:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-09-19 21:50:36 +0900"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_slab": {
+    "criteria": {
+      "has_mossy_red_bricks": "2024-09-13 01:53:04 +0900"
     },
     "done": true
   },
@@ -3831,6 +3897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-09 23:01:30 +0900"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-07-29 00:13:18 +0900"
@@ -3975,6 +4047,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-10-09 00:24:33 +0900"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
       "has_chest": "2024-07-28 01:58:13 +0900"
@@ -4052,6 +4130,7 @@
       "minecraft:husk": "2024-08-25 01:08:27 +0900",
       "minecraft:piglin": "2024-07-12 02:12:33 +0900",
       "minecraft:enderman": "2024-07-08 09:57:16 +0900",
+      "minecraft:silverfish": "2024-10-09 00:20:15 +0900",
       "minecraft:zombie": "2024-07-06 02:01:22 +0900",
       "minecraft:drowned": "2024-07-25 03:21:38 +0900",
       "minecraft:zombie_villager": "2024-08-18 16:43:13 +0900"
@@ -4283,6 +4362,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-07-29 00:13:18 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_stairs": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2024-09-08 17:42:19 +0900"
     },
     "done": true
   },
@@ -4760,6 +4845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-09 23:01:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2024-07-19 05:27:06 +0900"
@@ -4799,6 +4890,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-07-28 02:04:50 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_slab": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2024-09-08 17:42:19 +0900"
     },
     "done": true
   },
@@ -4844,6 +4941,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_dragon": {
+    "criteria": {
+      "spyglass_at_dragon": "2024-10-09 00:24:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-07-09 21:31:44 +0900"
@@ -4883,6 +4986,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-07-20 03:49:35 +0900"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_wall": {
+    "criteria": {
+      "has_mossy_red_bricks": "2024-09-13 01:53:04 +0900"
     },
     "done": true
   },
@@ -5862,6 +5971,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_slab_from_mossy_red_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_red_bricks": "2024-09-13 01:53:04 +0900"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2024-07-07 14:14:40 +0900"
@@ -6594,6 +6709,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-10-08 23:59:43 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-07-19 01:21:08 +0900"
@@ -6651,6 +6772,12 @@
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2024-07-06 01:28:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-10-09 23:15:55 +0900"
     },
     "done": true
   },
@@ -6753,6 +6880,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-07-06 01:30:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-10-09 00:45:33 +0900"
     },
     "done": true
   },
@@ -6873,6 +7006,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-07-06 01:57:29 +0900"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-09 23:01:30 +0900"
     },
     "done": true
   },
@@ -7134,6 +7273,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_stairs_from_mossy_red_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_red_bricks": "2024-09-13 01:53:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-07-06 01:30:59 +0900"
@@ -7382,6 +7527,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_stairs_from_cracked_red_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_red_bricks": "2024-09-13 01:55:23 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_salmon_slice_from_smoking": {
     "criteria": {
       "cooked_salmon_slice": "2024-07-12 04:12:54 +0900"
@@ -7421,6 +7572,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-08-04 23:08:33 +0900"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-10-08 23:59:50 +0900"
     },
     "done": true
   },
@@ -7697,6 +7854,12 @@
   "createdeco:recipes/createdeco.bricks/mossy_dean_short_bricks_from_dean_bricks_stonecutting": {
     "criteria": {
       "has_dean_bricks": "2024-08-25 00:44:02 +0900"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/conductor_vent_from_industrial_iron_block_stonecutting": {
+    "criteria": {
+      "has_industrial_iron_block": "2024-09-12 21:11:23 +0900"
     },
     "done": true
   },
@@ -8697,6 +8860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-09 23:01:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-07-14 04:49:44 +0900"
@@ -8706,6 +8875,12 @@
   "create:recipes/create.palettes/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-07-19 01:21:08 +0900"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2024-10-08 23:59:50 +0900"
     },
     "done": true
   },
@@ -8790,6 +8965,12 @@
   "createdeco:recipes/createdeco.metals/netherite_bars": {
     "criteria": {
       "has_item": "2024-07-30 00:35:22 +0900"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_wall": {
+    "criteria": {
+      "has_cracked_red_bricks": "2024-09-13 01:55:23 +0900"
     },
     "done": true
   },
@@ -9009,6 +9190,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_andesite_brick_wall": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2024-09-08 17:42:19 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-07-19 01:22:02 +0900"
@@ -9201,6 +9388,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2024-10-08 23:59:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-07-06 01:43:13 +0900"
@@ -9339,6 +9532,18 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-10-09 23:24:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-10-09 00:39:03 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-08-04 23:08:33 +0900"
@@ -9465,6 +9670,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_wall_from_mossy_red_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_red_bricks": "2024-09-13 01:53:04 +0900"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-08-04 23:08:33 +0900"
@@ -9480,6 +9691,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-07-06 01:29:02 +0900"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_sheet_metal_from_zinc_block_stonecutting": {
+    "criteria": {
+      "has_zinc_block": "2024-09-17 22:13:08 +0900"
     },
     "done": true
   },
@@ -10551,6 +10768,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-10-09 00:19:44 +0900"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/empty_powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-07-28 02:12:45 +0900"
@@ -10632,6 +10855,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-07-24 01:23:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-10-09 00:23:16 +0900"
     },
     "done": true
   },
@@ -11743,6 +11972,7 @@
     "criteria": {
       "cooked_porkchop": "2024-07-21 02:46:15 +0900",
       "cooked_beef": "2024-07-27 02:20:22 +0900",
+      "chorus_fruit": "2024-10-09 00:45:41 +0900",
       "baked_potato": "2024-07-21 03:14:33 +0900",
       "apple": "2024-07-06 01:37:40 +0900",
       "bread": "2024-07-06 02:56:57 +0900"
@@ -11794,6 +12024,12 @@
   "sliceanddice:recipes/tools/slicer": {
     "criteria": {
       "has_tool": "2024-07-28 01:54:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-09 23:01:30 +0900"
     },
     "done": true
   },
@@ -12295,6 +12531,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_wall_from_cracked_red_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_red_bricks": "2024-09-13 01:55:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-07-07 00:42:10 +0900"
@@ -12304,6 +12546,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-08-04 23:08:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-09 23:01:30 +0900"
     },
     "done": true
   },
@@ -12769,6 +13017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-10-09 23:01:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-07-08 22:51:29 +0900"
@@ -12947,6 +13201,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-10-09 00:23:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2024-07-14 03:27:21 +0900"
@@ -13052,6 +13312,12 @@
   "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-07-19 01:21:08 +0900"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2024-10-08 23:59:50 +0900"
     },
     "done": true
   },

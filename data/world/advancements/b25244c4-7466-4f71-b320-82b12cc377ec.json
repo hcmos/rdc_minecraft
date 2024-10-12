@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-10-09 00:42:08 +0900"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-07-31 01:28:49 +0900"
@@ -242,6 +248,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-07-20 04:50:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-10-08 22:59:11 +0900"
     },
     "done": true
   },
@@ -2155,6 +2167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-10-09 23:44:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-07-06 02:40:26 +0900"
@@ -3626,6 +3644,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-10-10 00:23:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-07-19 05:12:33 +0900"
@@ -3653,6 +3677,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-07-06 02:11:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-10-09 23:00:23 +0900"
     },
     "done": true
   },
@@ -3890,6 +3920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-10-09 23:44:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-07-07 02:27:14 +0900"
@@ -3917,6 +3953,12 @@
   "farmersdelight:recipes/farmersdelight/rope_from_safety_net": {
     "criteria": {
       "has_safety_net": "2024-07-28 01:49:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-10-09 23:44:54 +0900"
     },
     "done": true
   },
@@ -4314,6 +4356,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-07-12 00:18:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-10-09 00:33:53 +0900"
     },
     "done": true
   },
@@ -4755,6 +4803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-10-09 23:04:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-07-12 00:18:08 +0900"
@@ -4905,6 +4959,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2024-10-08 23:02:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-07-06 02:22:53 +0900"
@@ -4974,6 +5034,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-07-10 01:33:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-10-09 00:27:32 +0900"
     },
     "done": true
   },
@@ -5091,8 +5157,10 @@
       "minecraft:phantom": "2024-07-12 00:33:34 +0900",
       "minecraft:witch": "2024-07-27 01:12:41 +0900",
       "minecraft:wither_skeleton": "2024-07-22 02:33:03 +0900",
+      "minecraft:shulker": "2024-10-10 00:23:12 +0900",
       "minecraft:piglin": "2024-07-14 02:51:25 +0900",
       "minecraft:enderman": "2024-07-06 03:49:20 +0900",
+      "minecraft:silverfish": "2024-10-09 00:21:00 +0900",
       "minecraft:zombie": "2024-07-06 02:06:10 +0900",
       "minecraft:drowned": "2024-07-25 03:21:26 +0900",
       "minecraft:zombie_villager": "2024-07-06 03:45:15 +0900"
@@ -5297,6 +5365,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-10-09 00:19:47 +0900"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/empty_powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-07-28 02:15:10 +0900"
@@ -5378,6 +5452,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-07-22 03:19:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-10-09 00:23:13 +0900"
     },
     "done": true
   },
@@ -6144,6 +6224,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_dragon": {
+    "criteria": {
+      "spyglass_at_dragon": "2024-10-09 00:28:45 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-07-07 02:08:28 +0900"
@@ -6677,8 +6763,10 @@
       "cooked_porkchop": "2024-07-06 01:57:14 +0900",
       "sweet_berries": "2024-07-06 03:57:19 +0900",
       "cooked_beef": "2024-07-06 02:11:28 +0900",
+      "chorus_fruit": "2024-10-09 00:42:14 +0900",
       "beef": "2024-07-06 01:49:58 +0900",
       "porkchop": "2024-07-06 01:50:58 +0900",
+      "tropical_fish": "2024-10-09 00:13:22 +0900",
       "apple": "2024-07-06 03:02:36 +0900",
       "cooked_cod": "2024-07-06 03:15:59 +0900",
       "bread": "2024-07-06 03:20:42 +0900",
@@ -7149,6 +7237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-10-08 22:59:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-07-06 02:55:04 +0900"
@@ -7236,6 +7330,12 @@
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2024-07-28 05:04:38 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-10-10 00:08:15 +0900"
     },
     "done": true
   },
@@ -7467,6 +7567,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-07-20 04:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-10-09 23:44:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-10-09 23:44:54 +0900"
     },
     "done": true
   },
@@ -7788,6 +7900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-10-10 00:23:19 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-07-06 02:33:41 +0900"
@@ -8034,6 +8152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-10-08 22:59:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-07-15 00:37:06 +0900"
@@ -8173,6 +8297,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-07-06 01:55:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-10-09 00:23:13 +0900"
     },
     "done": true
   },
